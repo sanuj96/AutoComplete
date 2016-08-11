@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="KeyArray">
+        <item>ACI Data :CE </item>
+        <item>ADC A :8F </item>
+        <item>ADC B :88 </item>
+        <item>ADC C :89 </item>
+        <item>ADC D :8A </item>
+        <item>ADC E :8B </item>
+        <item>ADC H :8C </item>
+        <item>ADC L :8D </item>
+        <item>ADC M :8E </item>
+        <item>ADD A :87 </item>
+        <item>ADD B :80 </item>
+        <item>ADD C :81 </item>
+        <item>ADD D :82 </item>
+        <item>ADD E :83 </item>
+        <item>ADD H :84 </item>
+        <item>ADD L :85 </item>
+        <item>ADD M :86 </item>
+        <item>ADI Data :C6 </item>
+        <item>ANA A :A7 </item>
+        <item>ANA B :A0 </item>
+        <item>ANA C :A1 </item>
+        <item>ANA D :A2 </item>
+        <item>ANA E :A3 </item>
+        <item>ANA H :A4 </item>
+        <item>ANA L :A5 </item>
+        <item>ANA M :A6 </item>
+        <item>ANI Data :E6 </item>
+        <item>CALL Label :CD </item>
+        <item>CC Label :DC </item>
+        <item>CM Label :FC </item>
+        <item>CMA :2F </item>
+        <item>CMC :3F </item>
+        <item>CMP A :BF </item>
+        <item>CMP B :B8 </item>
+        <item>CMP C :B9 </item>
+        <item>CMP D :BA </item>
+        <item>CMP E :BB </item>
+        <item>CMP H :BC </item>
+        <item>CMP L :BD </item>
+        <item>CMP M :BD </item>
+        <item>CNC Label :D4 </item>
+        <item>CNZ Label :C4 </item>
+        <item>CP Label :F4 </item>
+        <item>CPE Label :EC </item>
+        <item>CPI Data :FE </item>
+        <item>CPO Label :E4 </item>
+        <item>CZ Label :CC </item>
+        <item>DAA :27 </item>
+        <item>DAD B :09 </item>
+        <item>DAD D :19 </item>
+        <item>DAD H :29 </item>
+        <item>DAD SP :39 </item>
+        <item>DCR A :3D </item>
+        <item>DCR B :05 </item>
+        <item>DCR C :0D </item>
+        <item>DCR D :15 </item>
+        <item>DCR E :1D </item>
+        <item>DCR H :25 </item>
+        <item>DCR L :2D </item>
+        <item>DCR M :35 </item>
+        <item>DCX B :0B </item>
+        <item>DCX D :1B </item>
+        <item>DCX H :2B </item>
+        <item>DCX SP :3B </item>
+        <item>DI :F3 </item>
+        <item>EI :FB </item>
+        <item>HLT :76 </item>
+        <item>IN Port-address :DB </item>
+        <item>INR A :3C </item>
+        <item>INR B :04 </item>
+        <item>INR C :0C </item>
+        <item>INR D :14 </item>
+        <item>INR E :1C </item>
+        <item>INR H :24 </item>
+        <item>INR L :2C </item>
+        <item>INR M :34 </item>
+        <item>INX B :03 </item>
+        <item>INX D :13 </item>
+        <item>INX H :23 </item>
+        <item>INX SP :33 </item>
+        <item>JC Label :DA </item>
+        <item>JM Label :FA </item>
+        <item>JMP Label :C3 </item>
+        <item>JNC Label :D2 </item>
+        <item>JNZ Label :C2 </item>
+        <item>JP Label :F2 </item>
+        <item>JPE Label :EA </item>
+        <item>JPO Label :E2 </item>
+        <item>JZ Label :CA </item>
+        <item>LDA Address :3A </item>
+        <item>LDAX B :0A </item>
+        <item>LDAX D :1A </item>
+        <item>LHLD Address :2A </item>
+        <item>LXI B :01 </item>
+        <item>LXI D :11 </item>
+        <item>LXI H :21 </item>
+        <item>LXI SP :31 </item>
+        <item>MOV A,A :7F </item>
+        <item>MOV A,B :78 </item>
+        <item>MOV A,C :79 </item>
+        <item>MOV A,D :7A </item>
+        <item>MOV A,E :7B </item>
+        <item>MOV A,H :7C </item>
+        <item>MOV A,L :7D </item>
+        <item>MOV A,M :7E </item>
+        <item>MOV B,A :47 </item>
+        <item>MOV B,B :40 </item>
+        <item>MOV B,C :41 </item>
+        <item>MOV B,D :42 </item>
+        <item>MOV B,E :43 </item>
+        <item>MOV B,H :44 </item>
+        <item>MOV B,L :45 </item>
+        <item>MOV B,M :46 </item>
+        <item>MOV C,A :4F </item>
+        <item>MOV C,B :48 </item>
+        <item>MOV C,C :49 </item>
+        <item>MOV C,D :4A </item>
+        <item>MOV C,E :4B </item>
+        <item>MOV C,H :4C </item>
+        <item>MOV C,L :4D </item>
+        <item>MOV C,M :4E </item>
+        <item>MOV D,A :57 </item>
+        <item>MOV D,B :50 </item>
+        <item>MOV D,C :51 </item>
+        <item>MOV D,D :52 </item>
+        <item>MOV D,E :53 </item>
+        <item>MOV D,H :54 </item>
+        <item>MOV D,L :55 </item>
+        <item>MOV D,M :56 </item>
+        <item>MOV E,A :5F </item>
+        <item>MOV E,B :58 </item>
+        <item>MOV E,C :59 </item>
+        <item>MOV E,D :5A </item>
+        <item>MOV E,E :5B </item>
+        <item>MOV E,H :5C </item>
+        <item>MOV E,L :5D </item>
+        <item>MOV E,M :5E </item>
+        <item>MOV H,A :67 </item>
+        <item>MOV H,B :60 </item>
+        <item>MOV H,C :61 </item>
+        <item>MOV H,D :62 </item>
+        <item>MOV H,E :63 </item>
+        <item>MOV H,H :64 </item>
+        <item>MOV H,L :65 </item>
+        <item>MOV H,M :66 </item>
+        <item>MOV L,A :6F </item>
+        <item>MOV L,B :68 </item>
+        <item>MOV L,C :69 </item>
+        <item>MOV L,D :6A </item>
+        <item>MOV L,E :6B </item>
+        <item>MOV L,H :6C </item>
+        <item>MOV L,L :6D </item>
+        <item>MOV L,M :6E </item>
+        <item>MOV M,A :77 </item>
+        <item>MOV M,B :70 </item>
+        <item>MOV M,C :71 </item>
+        <item>MOV M,D :72 </item>
+        <item>MOV M,E :73 </item>
+        <item>MOV M,H :74 </item>
+        <item>MOV M,L :75 </item>
+        <item>MVI A,Data :3E </item>
+        <item>MVI B,Data :06 </item>
+        <item>MVI C,Data :0E </item>
+        <item>MVI D,Data :16 </item>
+        <item>MVI E,Data :1E </item>
+        <item>MVI H,Data :26 </item>
+        <item>MVI L,Data :2E </item>
+        <item>MVI M,Data :36 </item>
+        <item>NOP :00 </item>
+        <item>ORA A :B7 </item>
+        <item>ORA B :B0 </item>
+        <item>ORA C :B1 </item>
+        <item>ORA D :B2 </item>
+        <item>ORA E :B3 </item>
+        <item>ORA H :B4 </item>
+        <item>ORA L :B5 </item>
+        <item>ORA M :B6 </item>
+        <item>ORI Data :F6 </item>
+        <item>OUT Port-Address :D3 </item>
+        <item>PCHL :E9 </item>
+        <item>POP B :C1 </item>
+        <item>POP D :D1 </item>
+        <item>POP H: E1</item>
+        <item>POP PSW :F1 </item>
+        <item>PUSH B :C5 </item>
+        <item>PUSH D :D5 </item>
+        <item>PUSH H :E5 </item>
+        <item>PUSH PSW :F5 </item>
+        <item>RAL :17 </item>
+        <item>RAR :1F </item>
+        <item>RC :D8 </item>
+        <item>RET :C9 </item>
+        <item>RIM :20 </item>
+        <item>RLC :07 </item>
+        <item>RM :F8 </item>
+        <item>RNC :D0 </item>
+        <item>RNZ :C0 </item>
+        <item>RP :F0 </item>
+        <item>RPE :E8 </item>
+        <item>RPO :E0 </item>
+        <item>RRC :0F </item>
+        <item>RST 0 :C7 </item>
+        <item>RST 1 :CF </item>
+        <item>RST 2 :D7 </item>
+        <item>RST 3 :DF </item>
+        <item>RST 4 :E7 </item>
+        <item>RST 5 :EF </item>
+        <item>RST 6 :F7 </item>
+        <item>RST 7 :FF </item>
+        <item>RZ :C8 </item>
+        <item>SBB A :9F </item>
+        <item>SBB B :98 </item>
+        <item>SBB C :99 </item>
+        <item>SBB D :9A </item>
+        <item>SBB E :9B </item>
+        <item>SBB H :9C </item>
+        <item>SBB L :9D </item>
+        <item>SBB M :9E </item>
+        <item>SBI Data :DE </item>
+        <item>SHLD Address :22 </item>
+        <item>SIM :30 </item>
+        <item>SPHL :F9 </item>
+        <item>STA Address :32 </item>
+        <item>STAX B :02 </item>
+        <item>STAX D :12 </item>
+        <item>STC :37 </item>
+        <item>SUB A :97 </item>
+        <item>SUB B :90 </item>
+        <item>SUB C :91 </item>
+        <item>SUB D: 92</item>
+        <item>SUB E :93 </item>
+        <item>SUB H :94 </item>
+        <item>SUB L :95 </item>
+        <item>SUB M :96 </item>
+        <item>SUI Data :D6 </item>
+        <item>XCHG :EB </item>
+        <item>XRA A :AF </item>
+        <item>XRA B :A8 </item>
+        <item>XRA C :A9 </item>
+        <item>XRA D :AA </item>
+        <item>XRA E :AB </item>
+        <item>XRA H :AC </item>
+        <item>XRA L :AD </item>
+        <item>XRA M :AE </item>
+        <item>XRI Data :EE </item>
+        <item>XTHL :E3 </item>
+    </array>
+</resources>

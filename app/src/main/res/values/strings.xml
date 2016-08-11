@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">8085 Op-Code to Hex-Code</string>
+    <string name="textview1">Enter OpCode</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Button1">Get HexCode</string>
+    <string name="hexcodeview">Op-Code : Hex-Code</string>
+
+</resources>
